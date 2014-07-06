@@ -7,11 +7,8 @@
 Calendar
 ========
 
-CS151 - Final Class Project
-
-----------
 ##Summary
-In the project, we designed and implemented a calendar similar to the google calendar.
+In the project for our CS151 course at SJSU, we designed and implemented a calendar similar to the google calendar.
 We are expected to have obtained fundamental design and programming techniques to conduct this project, including MVC (Model/View/Controller) design pattern and GUI programming skills. 
 
 **Team Members of Team IDK:** Eric Tam, Jannette Pham-Le, Justin Tieu
