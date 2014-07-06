@@ -31,7 +31,7 @@ Each event in the file takes up one line and consists of the following items sep
 - days: days will be a sequence of day abbreviations, SMTWHFA, without any space in it. Days can be any order. No space is allowed in days
 - starting time: use 24 hour system (0 ~ 23)
 - ending time: use 24 hour system (0 ~ 23)
-- 
+
 For example, the following line schedules Math Class on every M,W,F from January to February 2006. The class starts from 5:00 pm and ends at 6:00 pm on the scheduled date.
 
 Math Class;2006;1;2;MWF;17;18;
